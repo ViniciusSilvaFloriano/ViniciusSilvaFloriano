@@ -16,4 +16,4 @@ Projetos pessoais, estudos e experimentos técnicos.
 
 Contato
 
-[LinkedIn](https://www.linkedin.com/in/vinicius-da-silva-floriano-05082023vm/) | [E-mail](mailto:vinicius.dasilvafloriano18@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vinicius-da-silva-floriano/) | [E-mail](mailto:vinicius.dasilvafloriano18@gmail.com)
