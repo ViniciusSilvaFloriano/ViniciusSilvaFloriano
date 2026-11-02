@@ -1,16 +1,19 @@
-## Hi there 👋
+Olá, eu sou o Vinicius!
+Desenvolvedor de software, atualmente atuando com Front-end e interessado em Back-end, Full Stack e infraestrutura.
 
-<!--
-**ViniciusSilvaFloriano/ViniciusSilvaFloriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologias
+- Front-end: CSS, LESS, HTML, JavaScript.
+- Back-end: Java, PHP.
+- Banco de dados: SQL, MySQL.
+- Outros: Git, Python.
+Interesses
 
-Here are some ideas to get you started:
+Desenvolvimento de software, arquitetura de sistemas, infraestrutura, redes e tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projetos
+
+Projetos pessoais, estudos e experimentos técnicos.
+
+Contato
+
+[LinkedIn](https://www.linkedin.com/in/vinicius-da-silva-floriano-05082023vm/) | [E-mail](mailto:vinicius.dasilvafloriano18@gmail.com)
