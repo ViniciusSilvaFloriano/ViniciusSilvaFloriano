@@ -1,4 +1,4 @@
-Olá, eu sou o Vinicius!
+Olá, eu sou o Vinicius!<br>
 Desenvolvedor de software, atualmente atuando com Front-end e interessado em Back-end, Full Stack e infraestrutura.
 
 Tecnologias
